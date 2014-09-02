@@ -1,0 +1,27 @@
+# Summary
+
+* [Course Definition](index.md)
+* Lectures
+  * [Introduction to Node.js and JavaScript](lectures/2014-08-26.md)
+  * [Github forks and pull requests](lectures/2014-09-02.md)
+  * [Modules and npm](lectures/2014-09-09.md)
+  * [Code validation, conventions, linting](lectures/2014-09-16.md)
+  * [HTTP, Connect, Express](lectures/2014-09-23.md)
+  * [Unit testing, Jasmine, PhantomJS](lectures/2014-09-30.md)
+  * [Common task runners](lectures/2014-10-07.md)
+  * [Automation and continuous integration](lectures/2014-10-14.md)
+  * [Package dependencies](lectures/2014-10-21.md)
+  * [Front end third party dependencies](lectures/2014-10-28.md)
+  * [Web performance](lectures/2014-11-04.md)
+  * [Code coverage](lectures/2014-11-11.md)
+  * [](lectures/2014-11-18.md)
+  * [Load balancing](lectures/2014-11-25.md)
+  * [](lectures/2014-12-02.md)
+  * [](lectures/2014-12-09.md)
+  * [Feedback on the projects](lectures/2014-12-16.md)
+* Assignments
+  * [First assignment](assignments/2014-09-16.md)
+  * [Second assignment](assignments/2014-10-07.md)
+  * [Third assignment](assignments/2014-10-28.md)
+  * [Fourth assignment](assignments/2014-11-18.md)
+* [Presentations](presentations.md)
